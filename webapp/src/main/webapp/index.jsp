@@ -30,7 +30,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-   <h1> This page have been updated recently. </h1>
+   <h1> Keeping you safe! </h1>
 
    <h1> Thank you for working with us! Happy Learning!!! </h1>
 
